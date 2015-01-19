@@ -1,0 +1,17 @@
+{
+  "uuid": "c13ff24a-80a8-46b9-86c4-5140e4235ecb",
+  "shortName": "watchface-tutorial",
+  "longName": "watchface-tutorial",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
